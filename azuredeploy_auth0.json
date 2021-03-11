@@ -10,15 +10,13 @@
       }
     },
     "WorkspaceId": {
-      "type": "string",
-      "defaultValue": "<WorkspaceId>",
+      "type": "string",      
       "metadata": {
         "description": "Specifies the Azure Log Analytics Workspace Id."
       }
     },
     "WorkspaceKey": {
-      "type": "string",
-      "defaultValue": "<WorkspaceKey>",
+      "type": "securestring",      
       "metadata": {
         "description": "Specifies the Azure Log Analytics Workspace Key."
       }
