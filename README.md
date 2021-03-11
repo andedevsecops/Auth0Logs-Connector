@@ -2,7 +2,7 @@
 Auth0 provides event logs that you can analyze to enhance Security and Operational Monitoring and Insights. This custom Azure Sentinel Data connector ingests critical security signals coming from Auth0. 
 Security teams can monitor authorization traffic, analyze anomalies, and set up alerts for high-risk actions with higher confidence.
 
-![Auth0LogsIngestionFlow](./images/Auth0LogsIngestionFlow.png) 
+![Auth0LogsIngestionFlow](./images/Auth0LogsIngestionFlow.PNG) 
 
 ## **Pre-requisites**
 
