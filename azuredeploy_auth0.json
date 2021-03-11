@@ -204,7 +204,7 @@
 			"LATableName": "Auth0Logs",
 			"Auth0LogsQueueName": "variables('StorageQueueName')",
 			"LAURI": "[variables('LogAnaltyicsUri')]",			
-            "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/andedevsecops/Azure-Sentinel/blob/master/DataConnectors/Auth0Logs/Auth0LogsIngestion/AzureFunctionAuth0Logs.zip?raw=true"
+            "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/andedevsecops/Auth0Logs-Connector/blob/main/Auth0LogsIngestion/AzureFunctionAuth0Logs.zip?raw=true"
           }
         }
       ]      
